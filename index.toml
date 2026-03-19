@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -211,6 +211,16 @@ hash = "58755a8908c4d73072f7d5e8c1b6bcedffa485c0bc121bc36f77845fa32fd0bf"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "458140f6cde00189438da7cbc36c373a0215166dc313813a48a7034bccb9bff0"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
 metafile = true
@@ -221,8 +231,33 @@ hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
+file = "mods/create-deepfried.pw.toml"
+hash = "e9afa1bedf69f55371e69527092499bec0c8b7aaaea064b57e364d294f6159c7"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "1363456107dacc8202a7bfcea93622fa81d04570f77d4075146b3b4bc9bbeac8"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "eef3ee7ba1a3731edf183824a30c720132fcec5d55d83c734dd846bd2ebf92f4"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "342ad3c4d3a6f5b012e9409cea92ab96d8eca3610a54a3be269254ee40e9fc21"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "0cc21d93573e2a8f2ac2744f93db54f08cba3a3129ee84c4800190a529c783e6"
 metafile = true
 
 [[files]]
@@ -741,6 +776,11 @@ hash = "de55201c696cfd99f0920b71d93136aae68d98d9629898b4c41698e7c2d2eb30"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "3d9e6280e38ac24dac1b5e3ad67f3f68baa67f53871261282ddbb7674611b2d0"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
@@ -863,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/trailtales-delight.pw.toml"
 hash = "bb39209a9ee057bf7606396c9c01f27ad980218b95d01d44089cadab1063a964"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "7e17700697d9655949dab950d12ef6f010082cd310b8449df0d13c566896ce80"
 metafile = true
 
 [[files]]
