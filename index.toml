@@ -871,11 +871,6 @@ hash = "9e5eedc2329699c885d2630198e7f2f00979f5eb74aed7acf362957df78454bf"
 metafile = true
 
 [[files]]
-file = "mods/unusual_end.pw.toml"
-hash = "f6b1f5321d508866ac199051a6d49300de56b1213b3690d3d93cce60bbd1e734"
-metafile = true
-
-[[files]]
 file = "mods/village-bell-recipe.pw.toml"
 hash = "85cb333b592aaee1abd80afa4a57c4eec58110a0d2c9751a024c6139f9e9356c"
 metafile = true
