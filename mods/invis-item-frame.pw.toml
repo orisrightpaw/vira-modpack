@@ -1,0 +1,13 @@
+name = "Invis item frame"
+filename = "invis-item-frame-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zqs0ksZg/versions/bM9qUeCZ/invis-item-frame-2.jar"
+hash-format = "sha512"
+hash = "61f4c5c638bfc94be4527a103e02d71c74bf4582d0227dd2082f33e82d7e8af30b650a8c9a0150aacfc93d71968a449133732018f459eeaf4a88e7b309d11ad3"
+
+[update]
+[update.modrinth]
+mod-id = "Zqs0ksZg"
+version = "bM9qUeCZ"

@@ -1,0 +1,13 @@
+name = "Aethersteel"
+filename = "Aethersteel-v5.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2TgZiCcV/versions/NPzTDUGv/Aethersteel-v5.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "ff1e5fbd38f659177adae66bcb9bc7d0fe19cca1964c06278682e5194518575a67464091aa779144910fa986457a19e246c84c059dd361afddb30d811f286e6f"
+
+[update]
+[update.modrinth]
+mod-id = "2TgZiCcV"
+version = "NPzTDUGv"

@@ -1,0 +1,13 @@
+name = "Farmer's Knives"
+filename = "farmersknives-neoforge-1.21.1-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uc3VdfLM/versions/wsk4wO8o/farmersknives-neoforge-1.21.1-4.1.0.jar"
+hash-format = "sha512"
+hash = "9eb756509513a324fff7323d021282f7bb32c46a41ed15b46d4ff1a43be497eba87e1ded68979615f22ab131f1aa2d22e1bb9778c6af517660d2308ff5f6b4d3"
+
+[update]
+[update.modrinth]
+mod-id = "uc3VdfLM"
+version = "wsk4wO8o"

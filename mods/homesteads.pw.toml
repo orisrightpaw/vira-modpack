@@ -1,0 +1,13 @@
+name = "Homesteads - Villager Expansion & New Professions"
+filename = "homesteads-2.0.0-for-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6ItsEKMh/versions/XknGijgC/homesteads-2.0.0-for-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f0be232340123c402ab6bae459deb714d8bedfc2735b9da81820d294ff444703ed7f70643f7672855b53552e7478a95b739703e2f874b53cedf12b4611e698ea"
+
+[update]
+[update.modrinth]
+mod-id = "6ItsEKMh"
+version = "XknGijgC"
