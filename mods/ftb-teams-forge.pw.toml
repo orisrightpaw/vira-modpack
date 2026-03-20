@@ -3,8 +3,8 @@ filename = "ftb-teams-neoforge-2101.1.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "328e04bf1a445870aacea8fe7637670f84272a8f"
+hash-format = "sha256"
+hash = "c0e4fcb2e349dd24dd3bddb1bcda6c61dad3c1db38e3bf1100e5da9c2753e571"
 mode = "metadata:curseforge"
 
 [update]

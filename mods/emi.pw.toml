@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/ouSj7NfF/emi-1.1.22%2B1.21.1%2Bneoforge.jar"
-hash-format = "sha512"
-hash = "6b4f2b93ccd40bbbf3d1f368a9d92b43777543c44243a76ed4010bd563a7f9658decdd58a3d79a3cdc04a288bf98e327a1cce93a5a9d2b8840306578fe633bca"
+hash-format = "sha256"
+hash = "772cf3108900e86e336a42f73ec0dfc2f8d5168840285f4a71fda84ea98859a8"
 
 [update]
 [update.modrinth]

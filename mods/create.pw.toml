@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar"
-hash-format = "sha512"
-hash = "8b3b3d9b6874f31a538add81390dff26b5f9475da6349dc52fc20dbde802edfc32ead511e12291198591574d42605f916f1acbadc2437056eea615d8586bf7cf"
+hash-format = "sha256"
+hash = "c3030f79894ba7410d51e99dd5e5b8a4f4cc9de6cb63c5906dc8f909000a4f55"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FkbDiLgR/versions/L8JTSQfM/clutterbestiary-1.1.2-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "c0ed4f3d6fd2b6d9e431aae0c3d629cc530bfad9b80d8d2d3c6a1ec7545462c9607c1b5a0d0397ecef99fc8d8482e8ab83336788169c4aaa17b05c2e34628dd3"
+hash-format = "sha256"
+hash = "1260cb5f762007570a76297326bf0c048fa643e3dd65203c1a1dbdeec820d336"
 
 [update]
 [update.modrinth]

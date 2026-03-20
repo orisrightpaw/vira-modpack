@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/8X2x5cPC/appleskin-neoforge-mc1.21-3.0.8.jar"
-hash-format = "sha512"
-hash = "f47c7228cb06693f118abfbd545c2cbacbe3ac4c779281d4464380dc4310de8a47e1ba73df3c7c6b8b670cca6ef49d9c14ccb93ba5a6705da9e3cf651eb63486"
+hash-format = "sha256"
+hash = "60691595ce02e48281c1ec0d1fac4e56ba1aadd496dd6c071a41b4da7f82bf42"
 
 [update]
 [update.modrinth]

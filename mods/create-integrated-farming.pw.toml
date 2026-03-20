@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9k1pAsfR/versions/MFfAXlSq/create-integrated-farming-1.2.1.jar"
-hash-format = "sha512"
-hash = "6d3e3ff527e13f8dedc16f62d2bdb47bdc0403343eaf40c36191e1fd9671599a53e17f69702ba9843c8045efb8973c23c6d508fe3dc9981fb2354d17d66c590d"
+hash-format = "sha256"
+hash = "f3f6382a56afa614613d2b8f97085ead31e73b29908c004650ae17f94be417f2"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "ExtremeReactors2-1.21.1-2.4.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b017d5d0cf5d5ab5ad5826e3e89f2d861f31d15a"
+hash-format = "sha256"
+hash = "74fdfdfc91c3c8e5a439d411e6f081d12193635fffe2c55142f2f28f75b9d621"
 mode = "metadata:curseforge"
 
 [update]

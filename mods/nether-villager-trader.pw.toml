@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BmVw9C1J/versions/tq3XeBEt/nethervillagertrader-2.0.0-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "135ac57e8f11b74880719a1a1b0c526e9332ba3209d8a284b6a035325b4d0f8fcec4f45a7ae80c7dfd7f3081a83dbb31a0b81a3563637d87c27c2b488896a171"
+hash-format = "sha256"
+hash = "407108c04bd4047da91c7b22535ad68ee38eaa721db21e174fc31d1cfcc5579b"
 
 [update]
 [update.modrinth]

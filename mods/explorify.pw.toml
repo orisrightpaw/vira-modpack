@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/9vHj342y/Explorify%20v1.6.4%20f15-88.mod.jar"
-hash-format = "sha512"
-hash = "601ee61e3619ab6a929ff06e4e3db6cc480d97a19e5716ac40a2a325d2d609b857a1ac17f2c0ed2b242e662b5486f4e0f59584fbd47acd481b318c45c244254b"
+hash-format = "sha256"
+hash = "dcc5340dc771c61358f53b9818594e9e588d9af81c0a1e906c373fb14d9be7a3"
 
 [update]
 [update.modrinth]

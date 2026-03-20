@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/hHVaPgFK/versions/JI15hSmt/naturally_trimmed-3.2.0%2B1.21-neoforge.jar"
-hash-format = "sha512"
-hash = "89a9536a72cfd995ba79079c5bd22fb2ad1b24f4e8f8ee202df4bb9ab9c0d75a9fdc33fae4f3df880b9831832d80f1fac2ad4a0f95a3d3a50994eda265057520"
+hash-format = "sha256"
+hash = "d6764b30900aefb47f66c60fc0e9d886fad6d99b033cfc3a131b9637703f252d"
 
 [update]
 [update.modrinth]

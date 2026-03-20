@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jAc0mDor/versions/WLD1yIAA/nethergeodes-1.0.1.jar"
-hash-format = "sha512"
-hash = "32e92c32ac4c44758200c277e475def6b3dad633297c79bad78b526328b66c1ce0f458b73b8badc6bed67a71e5dc580811e7312db9717080c8f4293c3e0be656"
+hash-format = "sha256"
+hash = "8fed8440dbe6e650865d8b8f530f7a497b5898f9c0edc76c27c154da5b4b7141"
 
 [update]
 [update.modrinth]

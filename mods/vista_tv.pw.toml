@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zuARv1N7/versions/KqWvfIDq/vista-1.21-3.0.7-neoforge.jar"
-hash-format = "sha512"
-hash = "f7b44738930ff1ec896da050eafebdfa88dad72219fade931a0be0b87d70afba4dc66b600019bd767584cd2252cd2795205e49b2b927370c95474d56f6529ed8"
+hash-format = "sha256"
+hash = "7c4b82f4869ffb30ad89248f7f21ed55f313bd6d114dc23cf2dc27099ba4c7a8"
 
 [update]
 [update.modrinth]

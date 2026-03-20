@@ -3,8 +3,8 @@ filename = "twilightforest-1.21.1-4.8.3287-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bd9102af8374a971b8f66cd0751de0c17a29f598"
+hash-format = "sha256"
+hash = "5ed1d20e11827db9d1757ff7a080a9640285ad18b858c83893d43795a3c20f7c"
 mode = "metadata:curseforge"
 
 [update]

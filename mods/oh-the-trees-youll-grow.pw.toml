@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/oKAgwPD0/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.2.1.jar"
-hash-format = "sha512"
-hash = "fee757648cfb577a3c5dca9217655d0ffa7467133d01e2f2b5e1aa0e098f385e55f2e294d425e7690a5bd77f41cda7aacdf07a2b0f5b863ec26bb23bae8285c0"
+hash-format = "sha256"
+hash = "d92fcb753e756c6d780ae77c0ee502700eb0524070ddc95f1b969ad62c877ced"
 
 [update]
 [update.modrinth]
