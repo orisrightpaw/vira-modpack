@@ -386,11 +386,6 @@ hash = "d6dab261c1ca4f02757e4071cd91c9cd85e4fe8d2899e4c38a5422e19b418d63"
 metafile = true
 
 [[files]]
-file = "mods/emojiful.pw.toml"
-hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
-metafile = true
-
-[[files]]
 file = "mods/end-villager-outpost.pw.toml"
 hash = "e54474f34c9b3cc87dd365e698d64203b41fca6a3991498ccd2d9e6d9205b60d"
 metafile = true
