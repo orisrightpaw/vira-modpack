@@ -411,11 +411,6 @@ hash = "03924c6c93d32f447bb2c2adc8328ee849e7b19f039c0d1871dcedf880e999b4"
 metafile = true
 
 [[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "66baab82d80c1449ca791c6385e74a4919921fe8b3624425836902d23d7d3681"
-metafile = true
-
-[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "4c5141e836cd590ae11c8a2c5abffd3c1e1cc4a9bf0683ab8e99882f29bc4af9"
 metafile = true
