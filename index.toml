@@ -81,6 +81,11 @@ hash = "6134ee7e529736fe2dd05ca65819164a973af0ef8f45471ab29df527d6dc2c1f"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "6566e83cbcd57285aa094a4cf12a2e7bec9336981c62cbb6827db5f32db93f26"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1e9e3a1f6ec25a17a460c4885c1e3f7a7c5c5744b613598e177b0ce19177d60a"
 metafile = true
@@ -178,6 +183,16 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "5b34cf2261d1a71724481a7913786b7b8a9ca1009269bb4bdc89fe6a71c20a0a"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
@@ -451,6 +466,11 @@ hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
 file = "mods/fossils-and-archaeology-legacy.pw.toml"
 hash = "975e63e51d825b95a378b5be79e61088927bf774bc756d795c7a46dddd41c23c"
 metafile = true
@@ -606,6 +626,11 @@ hash = "3366f46869c1de1e66d6fe6aaf29cf338c080fbf1d786e7111f445d76885c4c6"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "89988c8c1f16ca137c8e494f355eb42f974a19df118046e3338c95cf28a9095a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "524c5eebd75b52c73553113bd347ab13e419dda0b24437db965eceab61b7b217"
 metafile = true
@@ -698,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "8e8f71f1e69d70e0ca03b9933fb8fdffe2be3e93ae351d018d2bca8899b22515"
+metafile = true
+
+[[files]]
+file = "mods/neovelocity.pw.toml"
+hash = "701c3f61feb03b71471f951249996e61f1c75e7951825e61f039030bd05771b8"
 metafile = true
 
 [[files]]
