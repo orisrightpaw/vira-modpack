@@ -666,6 +666,11 @@ hash = "20c661d8b0560ca8c95af98008026a21a20b4668c83fdede3bcf7764b875672f"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "dbcdf0ccd90fbd4b02655fa7ef6636b8435c674ac716e7f47f721ee87fd2910e"
 metafile = true
