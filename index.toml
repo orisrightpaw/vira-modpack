@@ -371,21 +371,6 @@ hash = "5a43d22f989c10d3d13cc943bd7e944b3ec1aec0cd43926a891be3b2bede45a7"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "8ea3b2c289be8b2fae1912cd8be6f685786473e354355c0fc3cce5905c3eb835"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "5a328aebe4c7a23cc0aa36159623335b2429d5733b5f429146731652e3430839"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "d6dab261c1ca4f02757e4071cd91c9cd85e4fe8d2899e4c38a5422e19b418d63"
-metafile = true
-
-[[files]]
 file = "mods/end-villager-outpost.pw.toml"
 hash = "e54474f34c9b3cc87dd365e698d64203b41fca6a3991498ccd2d9e6d9205b60d"
 metafile = true
@@ -516,6 +501,11 @@ hash = "d724e763f5496422fdb25a69f7dc15eeb5c0aaed58c02c6c48a788c2a0873f7e"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "bf87620865e88ba85547d050f09c579e991ed1f80a05058ff86598c61e1d057d"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6bf4ce50bbf34cea92e05f58ebfec6323a4f78b7d7e13bab928886734b95f126"
 metafile = true
@@ -618,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "82317ff22163f6fee1f4727478eddf0a851834003a15ac93e189f5c909863a2a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
@@ -948,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/timber-strike.pw.toml"
 hash = "62119206ee0bbe72d6d392e6d29e4b879281aeb02b2b9b1554c321661bb35d75"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "033a94ac760854132b03916fcb5a9305a0bded2e5d5457f8080c8fd33144026e"
 metafile = true
 
 [[files]]
