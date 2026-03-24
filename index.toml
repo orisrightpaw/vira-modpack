@@ -981,11 +981,6 @@ hash = "ed752242aba8a1163c456839e6595377294179909a8c40d181e30e4bdbd1743b"
 metafile = true
 
 [[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "64168e603e4a152808f901737e6d372480986ced05b7c819f128cd2c0975ff49"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "7e49c6ef4719e7aca33b0306b5512939eb9314449eb0b6fb3ba40311f5ee7e1c"
 metafile = true
