@@ -231,6 +231,11 @@ hash = "e4386969b6659eb9e6bddcba7f044dcf6790a498a9c8a60dc92dc0d4cdc04a8c"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "262fa2222306e1aedc83abf88aac89140e3852a0613c10cc00eb41b4f9d53e3a"
+metafile = true
+
+[[files]]
 file = "mods/create-bitterballen.pw.toml"
 hash = "670961267b6ff6cfba1152f0c6a0171833b4691a2d6b6b7c4ef2285f3eb00cc5"
 metafile = true
@@ -381,6 +386,11 @@ hash = "d6dab261c1ca4f02757e4071cd91c9cd85e4fe8d2899e4c38a5422e19b418d63"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
+metafile = true
+
+[[files]]
 file = "mods/end-villager-outpost.pw.toml"
 hash = "e54474f34c9b3cc87dd365e698d64203b41fca6a3991498ccd2d9e6d9205b60d"
 metafile = true
@@ -488,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "fb2a0d9c6ba9b082f7b3eafc4a0c3ccc2fef5eadb64cbf33a9816b63ea70f728"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
 metafile = true
 
 [[files]]
@@ -843,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "523828835ba115e9811a913e134e27479952e823dca33acfec48f9c96a8019ad"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "ac3aecaa7398c0b9dcb46abdaa1826562ea1494de43c740b6c7a8d5abd139420"
 metafile = true
 
 [[files]]
