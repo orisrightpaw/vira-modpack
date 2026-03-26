@@ -781,6 +781,16 @@ hash = "66dc5b1731c9d1886cc8736875b9ccf979f52bf888cc503232947466e7a48b19"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "d350d4840d728447c8e7c8bdef5c1ee800625808b22dd91689ba847b8c7bbc30"
 metafile = true
