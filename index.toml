@@ -456,6 +456,11 @@ hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "a8bdefffee0ac7aab23ffd3ffdc2e7ce8a36048828dffdb3ae1911c82d84a1b0"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
@@ -631,11 +636,6 @@ hash = "3366f46869c1de1e66d6fe6aaf29cf338c080fbf1d786e7111f445d76885c4c6"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "89988c8c1f16ca137c8e494f355eb42f974a19df118046e3338c95cf28a9095a"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "524c5eebd75b52c73553113bd347ab13e419dda0b24437db965eceab61b7b217"
 metafile = true
@@ -668,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "20c661d8b0560ca8c95af98008026a21a20b4668c83fdede3bcf7764b875672f"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
