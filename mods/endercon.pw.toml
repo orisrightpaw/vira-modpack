@@ -1,13 +1,13 @@
 name = "Endercon"
-filename = "endercon-3.0.jar"
+filename = "endercon-3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wr1BCv8H/versions/NaGF0lh4/endercon-3.0.jar"
-hash-format = "sha256"
-hash = "41feaad567d2206ea9e4f973fbde7f0e3bf1b3bb0c74e2a0b19065e7cc198784"
+url = "https://cdn.modrinth.com/data/wr1BCv8H/versions/lGQlrvvZ/endercon-3.1.jar"
+hash-format = "sha512"
+hash = "a2b8e76c194b10b751faca7742fbe2a7f6862ee25f2212d0078a7e32b4b8a399311a66ad19478cc4d82ded1d294c099ef12ecbf8a49abc92481bae3cc3c3077e"
 
 [update]
 [update.modrinth]
 mod-id = "wr1BCv8H"
-version = "NaGF0lh4"
+version = "lGQlrvvZ"
