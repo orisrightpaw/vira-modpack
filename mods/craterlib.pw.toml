@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/IDi26FjR/CraterLib-Neoforge-1.21-3.1.0.jar"
-hash-format = "sha512"
-hash = "dbe736c8fa8dda044d780236f9e48a79fa47be5b151214f8764f562a3cf697d11f431fa257c165c374bfd7e55a9c2b996705b6c808cb440939dc999b72be5a9d"
+hash-format = "sha256"
+hash = "9af4910e641da561dd8889e9d358cb7bd45b22a709128bdf1718084a20dbe668"
 
 [update]
 [update.modrinth]

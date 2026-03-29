@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/f771UfeW/entityculling-neoforge-1.10.0-mc1.21.1.jar"
-hash-format = "sha512"
-hash = "98406c96eb7d2314d23bfc51c1bb68730d06c5ce668fdf8edc0e1a87f2e1c061aef6f96ad9244fc8eece07c1dceff6a45b5d1401e1abf0920bafd2543bd410b2"
+hash-format = "sha256"
+hash = "a42d2d78507a15fb1a1ea7423a2e77640c4829547d52713a51dd70a4ad4b3428"
 
 [update]
 [update.modrinth]

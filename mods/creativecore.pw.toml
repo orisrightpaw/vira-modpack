@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/tXZudQfR/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar"
-hash-format = "sha512"
-hash = "654ba22a2bed66dfd95ca4ecd38db11649ca41495b9283554a795c433c9508f6f515a02594d7ab68c45ed1e3b99b124010c936227206bd67e85aa2247ce250bf"
+hash-format = "sha256"
+hash = "b443e30407436ecb4efe0974de69fe506788fc18daa72fcb804787a273cc5b3b"
 
 [update]
 [update.modrinth]
