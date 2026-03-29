@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "assets/bluemap-5.7-neoforge.jar"
-hash = "673559998488b622454297272a0e259ea297c9df965011d782fc715dd546eeea"
-
-[[files]]
-file = "assets/modpack.zip"
-hash = "25f24cd497c8f43666754ce0261becf50e5c5b2b1e57d2f2b9812e0b2ab2d892"
-
-[[files]]
 file = "mods/accessible-nether-roof.pw.toml"
 hash = "ca3f084036fcff654188d9b2785f6f75f76f56949c229c9b3ff9350d887cb2e1"
 metafile = true
