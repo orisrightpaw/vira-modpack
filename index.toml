@@ -411,6 +411,11 @@ hash = "3838b145fc62075be5e6d8c98f5d2a362b3c1a90d86da2e895c19f1b2c37c318"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights-fabric.pw.toml"
+hash = "4f0c9648395c804e43b83354074ad0bfd56dad7ebbd18177f437a63287b0fa6c"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
 hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
 metafile = true
