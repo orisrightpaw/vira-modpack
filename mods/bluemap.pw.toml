@@ -3,6 +3,6 @@ filename = "bluemap-5.7-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://vira.gay/assets/bluemap-5.7-neoforge.jar"
+url = "https://vira.gay/pack-assets/bluemap-5.7-neoforge.jar"
 hash-format = "sha256"
 hash = "347ac56ac9bbab54bc285e320e20657c139a042ae1b00f1f38e4295f10c9edfe"
