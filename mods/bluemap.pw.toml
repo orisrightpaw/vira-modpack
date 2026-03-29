@@ -1,8 +1,0 @@
-name = "bluemap"
-filename = "bluemap-5.7-neoforge.jar"
-side = "server"
-
-[download]
-url = "https://github.com/orisrightpaw/vira-modpack/raw/refs/heads/main/assets/bluemap-5.7-neoforge.jar"
-hash-format = "sha512"
-hash = "715ba4617c75ac2406524307e2f29d91622c3dae7c30090867f07e2f145528264b9772e306bf9fb6e744aa7966e84a0646b01daa7e0f1fc2cc306fe2fd4f7f1a"

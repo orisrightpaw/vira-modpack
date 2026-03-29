@@ -106,11 +106,6 @@ hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "0a09aef1256a819ca8ceeaa5ae460e6a464f2859afbf35f89b1a06fac4069e91"
-metafile = true
-
-[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "aeac2b5033ef9c7e434327631b1fcaa7487ec6ce542f7af02bb4555f4695ca59"
 metafile = true
