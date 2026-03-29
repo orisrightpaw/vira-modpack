@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7vLeZs9H/versions/DeFmDBVC/nirvana-forge-2.0.10.jar"
-hash-format = "sha256"
-hash = "023d7d7fd518196a96d6da3f514d6e2589629b2ba107dd5396858dbb588656d3"
+hash-format = "sha512"
+hash = "35892ea5e6be2564c6f7ec62a3d1d72fe30c2094537df61a028161ef3ca5770aa5b7a982e50300dc7476aa53131068aac8d3cf4879ad6747c5eb8987b97130c5"
 
 [update]
 [update.modrinth]

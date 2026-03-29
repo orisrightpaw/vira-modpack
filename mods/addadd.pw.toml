@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/R4TvILfj/versions/y413m00O/additionaladditions-neoforge-10.0.2.jar"
-hash-format = "sha256"
-hash = "073468279188bb7075940c8255c94d5a4ae34ec52b422472899621d95b9e28c5"
+hash-format = "sha512"
+hash = "d20f7ba95ab38f0900e332f6a4ac17f6b32b99bee7f35bc64a83a329dde24b901da5eeaf8bda3cfadb31ea5e0ab9cb33a5d02bf134a0570b08167204d3275f14"
 
 [update]
 [update.modrinth]

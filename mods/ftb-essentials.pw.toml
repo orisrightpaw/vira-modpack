@@ -3,8 +3,8 @@ filename = "ftb-essentials-neoforge-2101.1.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "4da8e4d461ceef1a5e6f6705265fe24239b132cdc408eb77787231cb56c219bf"
+hash-format = "sha512"
+hash = "28b4764e3065638febcf4551eda76916a1d54f77673fd27885b1b5085e23cab2458b32d6bee4d6ccc4cfe5f5bdb051a9bc1977cb56316603bcd4483c7848f6e9"
 mode = "metadata:curseforge"
 
 [update]

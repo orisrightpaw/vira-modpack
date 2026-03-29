@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W77u83l0/versions/DCFNR3Jw/farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar"
-hash-format = "sha256"
-hash = "40cf84a3b518be5e49f8085f9fb4cf9b58ea278480a00b91ed68c62a9f66c17d"
+hash-format = "sha512"
+hash = "7b0a47a911eeb5aae80e6567b3407d6dbead71a46963afaab4eb7503b79499e14222293a1ff243dfd512e2880418d6c3bc71399c4ba605d5e5cba8b89658f5e6"
 
 [update]
 [update.modrinth]

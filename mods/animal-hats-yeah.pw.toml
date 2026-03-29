@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gL68b8ME/versions/mHsEo1Tg/animalhatmod-1.1.1-neoforge-1.21.1.jar"
-hash-format = "sha256"
-hash = "fcec312b681d42cafd1bb48db22ef34518105cbf108a46737956410d85e129c3"
+hash-format = "sha512"
+hash = "178dfb4c29dfca15b765773e1035058109106ffad3d2e8b8ea04410c4bc6d6cabf0b9edb483cd49a5c095436b8523c705bb773558c9d1651231f76cbd18a7af6"
 
 [update]
 [update.modrinth]

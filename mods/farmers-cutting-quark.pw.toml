@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rH2QzhPh/versions/I8fsttD3/farmers-cutting-quark-1.21.1-1.0.jar"
-hash-format = "sha256"
-hash = "cc7bb63dd64289d59c426c8d84694f922c2ce302dc9f3e0ebb28a9ab24c9740e"
+hash-format = "sha512"
+hash = "f52274e7168ea3ed5188f5383c5c4410f2981cb3906c2a9b16a46e336da3769ec687cbd5c600fe2ab89c1f9be8f2f6be55f58475546df4ffad9713ee6dbd6622"
 
 [update]
 [update.modrinth]

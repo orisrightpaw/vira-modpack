@@ -3,8 +3,8 @@ filename = "supplementaries-1.21-3.5.29-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "e76bf30cdbc86001516eb06c530e5d80ab9cbd5855deeddab670cffcdf73f0e6"
+hash-format = "sha512"
+hash = "9db4f960601878b4f18d9ad48b037ada6d6ff1bc6635e193610e08730746e98701c30347b4658d11ae4fc85092dc09cad042a54903a0e02223eacf380285d54e"
 mode = "metadata:curseforge"
 
 [update]

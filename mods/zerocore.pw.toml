@@ -3,8 +3,8 @@ filename = "ZeroCore2-1.21.1-2.4.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "54ac755031b05c3a5b6ddfa22dabc45fb3775481041503dcecd75e5e86627779"
+hash-format = "sha512"
+hash = "c7cc17ed56eca1c0746b3391506ff207747540466efe7285f9217f08d01f30e140fe1c2b4575b45033c6a3c49267db8cb099f9f04124b5d7004bf2352019eb00"
 mode = "metadata:curseforge"
 
 [update]

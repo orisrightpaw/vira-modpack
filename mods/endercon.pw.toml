@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wr1BCv8H/versions/lGQlrvvZ/endercon-3.1.jar"
-hash-format = "sha256"
-hash = "eb003167ba49127e3eb95d91fc8c637cc55d5e89a1d43c190c473253c7be2fc2"
+hash-format = "sha512"
+hash = "a2b8e76c194b10b751faca7742fbe2a7f6862ee25f2212d0078a7e32b4b8a399311a66ad19478cc4d82ded1d294c099ef12ecbf8a49abc92481bae3cc3c3077e"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/k95JcfbJ/createdeco-2.1.2-1.21.1-neo.jar"
-hash-format = "sha256"
-hash = "9a2b0a69462a89776f33ee0444489c8e84e0f87a71488a971cb3e0d56d5a6f24"
+hash-format = "sha512"
+hash = "c600f15ce173b01f86aed12d40d97c11298d63c0f707f83e5a1f14129cefd45c15ea28642b23b7847033fdd3d36c61b0a13db6e96b060d55ea778178103b4b09"
 
 [update]
 [update.modrinth]

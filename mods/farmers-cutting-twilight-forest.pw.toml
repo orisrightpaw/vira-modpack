@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DiojkUaV/versions/iPd8b6KU/farmers-cutting-twilight-forest-1.21.1-1.0.jar"
-hash-format = "sha256"
-hash = "8d2867ecae0c6fb77f4dcf41537c3d987eb60098ead774a07d48b558de83fcd3"
+hash-format = "sha512"
+hash = "6deb171d97c6db093024f4789e6b30f3e990a8e124fb130f2af2cae3f7fb9502d4e4bc2b2a55d58e459a95303258d7bf5b982bfb71965b5347bd84a38901e9ac"
 
 [update]
 [update.modrinth]

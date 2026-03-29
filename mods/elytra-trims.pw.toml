@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/7mqA6CJO/elytratrims-neoforge-3.9.3%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "65cdb54ce4f250e11e4ef74466040fc9e380dbbc1db30deefb3e81eeaad46be4"
+hash-format = "sha512"
+hash = "d50325821bf3fd5f54ea811b7beb0264a6fcf0f91c40c0f01114a4c08f928b2a761f52a3d8df6197fb78a0821517745d0342d838af4b6b0611fa82830b9521f2"
 
 [update]
 [update.modrinth]

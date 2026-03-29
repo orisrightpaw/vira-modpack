@@ -3,8 +3,8 @@ filename = "potleaves-neoforge-1.21.1-26.1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "37fc047ddc3f0e7d77d83b75ea78d99030a235f2df659830cedbd2bce2e9d0f5"
+hash-format = "sha512"
+hash = "79412f485b3449cde7450222fa103d3d03b4bd5ae6b030e5cd1c6562ef4278bed42bb84d4b6804e1f9086698c598fe1a4c2678d91a7c6d755816e6ce02aae90a"
 mode = "metadata:curseforge"
 
 [update]

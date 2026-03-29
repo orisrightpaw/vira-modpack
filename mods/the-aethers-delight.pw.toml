@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XUztKPS9/versions/l6fgFjUf/aethersdelight-0.1.4.2-1.21.1.jar"
-hash-format = "sha256"
-hash = "11b07fce5c69682290106fc1c79fc447606791239a18965f71114f360e8a947e"
+hash-format = "sha512"
+hash = "8e5a29a71751c5eaa0957de11d54b8ca78e43d6ba8516747998ea82c8d72a03898bef62737009b6e15ab7cf364fd732262afd8f5705ba44562445412763e5e5b"
 
 [update]
 [update.modrinth]

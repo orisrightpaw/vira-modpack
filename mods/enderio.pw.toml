@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/49ZofO4f/versions/j7hVMHNk/enderio-8.2.3-beta.jar"
-hash-format = "sha256"
-hash = "34348589161381eb688a37827ec43af43a9fb6f619ed2645ba8de168d80858b4"
+hash-format = "sha512"
+hash = "9057d8312ec226d4d8c240dc047f8277fb8322049cbaa3a1c5abc73bae6b1deea9f6de4cc2fa0e649a13a2103055be24d1e31866b0f410892e5b93a84d10ab20"
 
 [update]
 [update.modrinth]
