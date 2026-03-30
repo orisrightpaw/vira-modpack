@@ -261,6 +261,11 @@ hash = "e9afa1bedf69f55371e69527092499bec0c8b7aaaea064b57e364d294f6159c7"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "693cd91c93dd402b03efb5dfc76eee3ad01099b20b9a2cfdf72c26277bc7bba9"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "1363456107dacc8202a7bfcea93622fa81d04570f77d4075146b3b4bc9bbeac8"
 metafile = true
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -623,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
