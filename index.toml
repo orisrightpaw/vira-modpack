@@ -11,6 +11,11 @@ hash = "753ee4a6c07bbbb1ee1fe9909321691acc45b54707b9c7d4c3450a73f60589ab"
 metafile = true
 
 [[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "7ce9edc794c336ceba5cebdafa493bc9c7a8b884925b07a81e7c17280516eed9"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "4a7568e25cac4f4bedba140135036d9481403069a6d9513a922e9901661c05ca"
 metafile = true
