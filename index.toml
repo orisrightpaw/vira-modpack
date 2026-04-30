@@ -116,6 +116,11 @@ hash = "49cf8aea9aa94b57935ec50f48037874f5ebbd586d3850ceda1a14d3e76be825"
 metafile = true
 
 [[files]]
+file = "mods/bluepac.pw.toml"
+hash = "8e3a2df03343e7ebf5e3678ff3bfcf62463cb2422beea1ec4df3a4662ddc9807"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "aeac2b5033ef9c7e434327631b1fcaa7487ec6ce542f7af02bb4555f4695ca59"
 metafile = true
@@ -511,11 +516,6 @@ hash = "e14c4af761ef65d736bfdab9842865d5fce27b13b0d777e2ab6703ac545a2c5a"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "e12f23c772e01b6dfb174ac29f51704645302df9b51f8548e0bebdf51bf949b3"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "6b5bc03ec09e9303e176c9fd85a982b4e0246bd11df26de9ed525c16a0395ca8"
 metafile = true
@@ -523,11 +523,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "77cd25c6a384b7e560fa0fbd320c1833fa518d9c86ddd768d5185983b5a188b4"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
@@ -836,6 +831,11 @@ hash = "907672467294408a423bfe23a2857476bcc8e3d0d39d5423992bbed76dc01159"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1033,6 +1033,16 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
 metafile = true
 
 [[files]]
