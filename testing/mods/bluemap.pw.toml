@@ -1,6 +1,6 @@
 name = "bluemap"
 filename = "bluemap-5.7-neoforge.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://vira.gay/pack-assets/bluemap-5.7-neoforge.jar"

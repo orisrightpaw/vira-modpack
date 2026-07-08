@@ -1,6 +1,7 @@
 name = "WATERViSION: VideoPlayer"
 filename = "watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/dGGbEGoV/versions/fYHfGRbK/watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
