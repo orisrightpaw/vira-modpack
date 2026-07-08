@@ -1,0 +1,13 @@
+name = "Timber"
+filename = "timber-strike-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dLucfkDg/versions/YpyR3Sz3/timber-strike-4.1.jar"
+hash-format = "sha512"
+hash = "305adce43e768e861c37e7790f67ec11fd1012a8e4781c60511911b89b67a8ba20c5eeb35a9cf5fc9be5997c5188feb5acf4adec2399719bec2886decc40ad79"
+
+[update]
+[update.modrinth]
+mod-id = "dLucfkDg"
+version = "YpyR3Sz3"

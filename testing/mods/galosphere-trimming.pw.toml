@@ -1,0 +1,13 @@
+name = "Galosphere Trimming"
+filename = "galosphere_trimming-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pzuy21SU/versions/LSQERL7M/galosphere_trimming-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "e9d2932bffea0378f6185a84287c37e82904bb41c4f37fa9aa368766290fb4141a91d35bd378c8247a73e48344cd5882f3bb1dd1158bd0831d77393e3fffbb68"
+
+[update]
+[update.modrinth]
+mod-id = "Pzuy21SU"
+version = "LSQERL7M"

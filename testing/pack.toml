@@ -1,0 +1,13 @@
+name = "vira"
+author = "cirro (snep.lol)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f92a71fe5c3154cfd92ef3e73456a64bed68c8d8d7c6a3ac134220350e903943"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.220"

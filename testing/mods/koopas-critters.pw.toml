@@ -1,0 +1,13 @@
+name = "Koopa's Critters"
+filename = "Koopa'sCritters_1.21.1Neoforge_V0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U5BtEYXm/versions/z31H9afZ/Koopa%27sCritters_1.21.1Neoforge_V0.4.2.jar"
+hash-format = "sha512"
+hash = "5ab8753070c7f2f6b914724a75a3e6ca2a348256a49a34bed08769c84c3877ebc781826e2229ccadd0fbf866add19ffb77f2285c3eee83cbeedb1a837181efde"
+
+[update]
+[update.modrinth]
+mod-id = "U5BtEYXm"
+version = "z31H9afZ"
