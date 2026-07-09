@@ -1,24 +1,15 @@
 #!/bin/bash
 set -e
 
-echo "Downloading Cobblemon 1.8 Snapshot from Maven"
+COBBLEMON_ARTIFACT_API='https://snapshots.cobblemon.dev/api/download/neoforge?repo=cobblemon'
 
-FILENAME="cobblemon-1.8-$(date +%s).jar"
-curl -L --output "../pack-assets/$FILENAME" "https://cdev.valerie.lol/api/download/neoforge?repo=cobblemon"
+echo "Updating download link for Cobblemon 1.8"
 
-echo "Committing new Cobblemon snapshot"
+COBBLEMON_SNAPSHOT=$(curl -I $COBBLEMON_ARTIFACT_API | grep -i ^Location: | sed 's/location: //g' | tr -d '\r')
 
-git add "../pack-assets/$FILENAME"
-git commit -m "Upload new Cobblemon snapshot"
-git push origin main
-
-echo "Waiting for GitHub Pages to publish"
-
-sleep 30
-
-echo "Staging Cobblemon update in testing"
+echo "Updating testing modpack for staging"
 
 cd ../testing
-packwiz url add cobblemon "https://orisrightpaw.github.io/vira-modpack/pack-assets/$FILENAME"
+packwiz url add cobblemon $COBBLEMON_SNAPSHOT
 
-echo "Done! Ready for commit."
+echo "Done!"
