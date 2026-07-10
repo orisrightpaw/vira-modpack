@@ -1,8 +1,8 @@
 name = "cobblemon"
-filename = "neoforge-1.8.0+1.21.1-20260704.021502-93.jar"
+filename = "neoforge-1.8.0+1.21.1-20260709.082753-94.jar"
 side = "both"
 
 [download]
-url = "https://artefacts.cobblemon.com/snapshots/com/cobblemon/neoforge/1.8.0+1.21.1-SNAPSHOT/neoforge-1.8.0+1.21.1-20260704.021502-93.jar"
+url = "https://artefacts.cobblemon.com/snapshots/com/cobblemon/neoforge/1.8.0+1.21.1-SNAPSHOT/neoforge-1.8.0+1.21.1-20260709.082753-94.jar"
 hash-format = "sha256"
-hash = "3d33594609cd5913060ebc74dcdce2511705defe52d1cbd5cefdaad449763434"
+hash = "12618c8d4c0867ad92702c711c72aa9afcbbe58e33b8eb05df7fea6776d3875c"
