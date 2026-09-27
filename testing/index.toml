@@ -361,16 +361,6 @@ hash = "7b3c7609e07faade9f1c2f5bcf9c655215d38c2ae32d68fc2de7b5b1459fda4c"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
-metafile = true
-
-[[files]]
 file = "mods/end-villager-outpost.pw.toml"
 hash = "cd9d0be82833dacb7377aa42604cdcf254bfc0ef6cb4007e564161a6bdbe851f"
 metafile = true
@@ -413,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "b9c7e06aaedf28d4f5fd4d002aa290b755bea76a9c2c0012a4a46efea1a3ef7d"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -738,11 +723,6 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
-metafile = true
-
-[[files]]
-file = "mods/naturally-trimmed.pw.toml"
-hash = "bae766c699d534296ce3136eedb3d2463668bbb0ae223452efb602cbb2afd683"
 metafile = true
 
 [[files]]
