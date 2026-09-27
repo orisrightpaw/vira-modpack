@@ -1,0 +1,13 @@
+name = "Reconnectible Chains"
+filename = "connectiblechains-2.4.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/zkYXGCmP/connectiblechains-2.4.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "2cb5241910578f8510f607714dcec9c08d4d97e2b5a4e80909fe87b8f32b8493a5b9e013fb09acd95458a482d41097e241a71cf3827806b905d40951af929c06"
+
+[update]
+[update.modrinth]
+mod-id = "5pzBXDS3"
+version = "zkYXGCmP"

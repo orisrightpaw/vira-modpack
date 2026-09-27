@@ -1,13 +1,13 @@
 name = "Immersive Machinery"
-filename = "immersive_machinery-0.2.0+1.21.1-neoforge.jar"
+filename = "immersive_machinery-0.2.1+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kGP3J2TW/versions/I0rFojKK/immersive_machinery-0.2.0%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/kGP3J2TW/versions/gspOPbgM/immersive_machinery-0.2.1%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "c567802189adfc004dfca9ff8519e76fe9909b4f6fea7d0ee0773c2e42320616cda61358a21e991634951a6a139dacc43c09b717bf4606ad69db8239b716cdf1"
+hash = "e6901f0b3b5c3b2771f2eaf86447c2c1f6b0d3135a8fd61869e112fc29ce1ba47d7241669816c6fad28c0048d060f5ce3ec4731ccaaadf0ac579c19a9a8f6cbf"
 
 [update]
 [update.modrinth]
 mod-id = "kGP3J2TW"
-version = "I0rFojKK"
+version = "gspOPbgM"
