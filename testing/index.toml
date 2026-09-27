@@ -161,11 +161,6 @@ hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough+.pw.toml"
-hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
-metafile = true
-
-[[files]]
 file = "mods/clutterbestiary.pw.toml"
 hash = "7162f6bbc5844720c254799b48ab64e4e09c0145e149ae115feb8f5757e770ff"
 metafile = true
@@ -426,13 +421,8 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "3838b145fc62075be5e6d8c98f5d2a362b3c1a90d86da2e895c19f1b2c37c318"
-metafile = true
-
-[[files]]
-file = "mods/fairy-lights-fabric.pw.toml"
-hash = "5b1d1a4878d6a8e1177533b959f2e7b1176d3bb5a06ee0aa6c1cc7683da2458a"
+file = "mods/fairylights.pw.toml"
+hash = "8702541584b5726dcc4a7f790c893ba9e5f412516ced6327f902b28bfd1209ed"
 metafile = true
 
 [[files]]
@@ -817,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
+hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
 metafile = true
 
 [[files]]
@@ -962,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
 metafile = true
 
 [[files]]
@@ -978,11 +968,6 @@ metafile = true
 [[files]]
 file = "mods/timber-strike-enchantment.pw.toml"
 hash = "179a74d884abadce48c94d15c7d5105ee6e3069add06f5a6381db2af33b35c51"
-metafile = true
-
-[[files]]
-file = "mods/timber-strike.pw.toml"
-hash = "a1ad162946ca152d6c0a597e72162c67514470ff2c09fa6d806dd7a2ece396fb"
 metafile = true
 
 [[files]]
