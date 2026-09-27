@@ -481,11 +481,6 @@ hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
-file = "mods/fossils-and-archaeology-legacy.pw.toml"
-hash = "e21c433b84ae24001f574e358d47124735dd1bdb7c0909f04b559b784b3b0180"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
 hash = "359fa7c50935dd5eb8e629c47ef5c86ee7cd183dd40cf3650ac9efe9ff7ce854"
 metafile = true
@@ -763,11 +758,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
-metafile = true
-
-[[files]]
-file = "mods/neovelocity.pw.toml"
-hash = "701c3f61feb03b71471f951249996e61f1c75e7951825e61f039030bd05771b8"
 metafile = true
 
 [[files]]
