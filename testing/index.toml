@@ -196,6 +196,11 @@ hash = "5625c978cee5102013e027c07d7ba815c597799a14cc447dfff63104d76b74be"
 metafile = true
 
 [[files]]
+file = "mods/create-estrogen.pw.toml"
+hash = "2e6b4b91ba3df20af4e4ff370a1ee2cd97211b066cd09c2c9f801ec96d592b63"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
 metafile = true
@@ -231,6 +236,11 @@ hash = "5c920fb448c69222ba2ea39b1a827f76d1f7150d2fcffb0d443698b53480bdda"
 metafile = true
 
 [[files]]
+file = "mods/cynosure.pw.toml"
+hash = "15da1f120a35d6c9ad038f7cf61d1d0b4361698f7f5dd5db9564cc75e7aacfb5"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
@@ -243,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "72b574928516e3d01e66b4ea3981480dc9c5175121b2001812a6cd0dca2f1b7d"
 metafile = true
 
 [[files]]
