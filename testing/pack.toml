@@ -1,12 +1,12 @@
 name = "vira"
-author = "cirro (snep.lol)"
-version = "1.0.0"
+author = "cirro"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f4195bdd74f982b1678fe2b787385b28b7872309c310eec4960c1a0c6532543f"
+hash = "d2a256e81996b50828c59e20fda42a09c69ebb210685c5a78e3844c43ee6a7b0"
 
 [versions]
 minecraft = "1.21.1"
