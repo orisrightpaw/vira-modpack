@@ -31,6 +31,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "416b7f130791397fb2ceb9e89ce3fd0e870f207c8e40b759c069cb58b7544314"
 metafile = true
@@ -61,6 +66,11 @@ hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
+file = "mods/catch-indicator.pw.toml"
+hash = "80ca6afd6151213e74b66469c2203b17c86ff7535c2dd6d1db6ef24ad651fecc"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
 metafile = true
@@ -81,8 +91,38 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "6beb1d27bf94f370291a868c5c5470eb6aaab5f9990ce5d66f3eba0ea4a3fec8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "e3a968ac1e805df40d70706ee364efcb74b00ef67228e07207b2fea0f25c2b78"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "f94003c8ed9f325625d6d98e0ac7eb643ecf0a2826fea919cf8f5db936f57c87"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "f7592fa9ad1e52d8b32bc7faff02c2a918deebdc3159747d976c21343f29468f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "90bf117c8c590e378e544c0dbf41266221be72307b969c486b9d85e3ec89cb0a"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "f480fa46d7f4800dad4414d136541f8f8410d5907fc014e389b648d20b1065ce"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "1d976a52bf9bf8ae519fc5a75382de094d077002a63c73c78707c1e751d66e90"
 metafile = true
 
 [[files]]
@@ -166,6 +206,11 @@ hash = "e612f6a7f4d6101651ec929647a42d18a6b321d596e29e2b7821ced0bbccdff9"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "ba3f520344bc43b437b03e4d0fbbcbffd5225850ed4e3d5ea1d4e8d9b339b506"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -193,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
+metafile = true
+
+[[files]]
+file = "mods/lootrmon.pw.toml"
+hash = "4fc73c53deeb29e98ee31b7cb534f80ed3635afc54f7c37460cfba92718ce74a"
 metafile = true
 
 [[files]]
@@ -266,6 +321,11 @@ hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
 metafile = true
@@ -333,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/treeliable.pw.toml"
 hash = "48cf6363ad2486b05b70db52b66e2012909a9213d1f391919584d409b992fe7c"
+metafile = true
+
+[[files]]
+file = "mods/tsfitemcore.pw.toml"
+hash = "faa2f0fb710f5cd0cd74ca4fc78f56e09968d59f89c942a5777e226ffd54a321"
 metafile = true
 
 [[files]]
