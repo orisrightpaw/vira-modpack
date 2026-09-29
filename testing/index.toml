@@ -466,11 +466,6 @@ hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
 metafile = true
 
 [[files]]
-file = "mods/maples-parrot-collection.pw.toml"
-hash = "1c375af021bd113b72b747abf9a0f1a2965ee4385537c3e1a783b00f4cc0d136"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
 metafile = true
@@ -638,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
-metafile = true
-
-[[files]]
-file = "mods/sapling.pw.toml"
-hash = "cc5903ffbf8595ae2f00c56f023bee520797e21afe1c3dcf78ed1d99af34cfcb"
 metafile = true
 
 [[files]]
