@@ -196,6 +196,11 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
+file = "mods/create-compatible-storage.pw.toml"
+hash = "c4af8c4810587d8c19fdc3dec720687fd575be0c55b625f4d0a8900a39b7f80b"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/create-estrogen.pw.toml"
 hash = "2e6b4b91ba3df20af4e4ff370a1ee2cd97211b066cd09c2c9f801ec96d592b63"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "b453da2f0b7acfd75d9bfb12f9dcad50211a0b25040c894f00736b913c18a339"
 metafile = true
 
 [[files]]
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
@@ -576,6 +591,16 @@ hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "68ef590d29c127c6b38d81662edfa45a2e1339d38f60aee345e31164c7c10017"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
 metafile = true
@@ -583,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3fccf4472b525c3dad0d6611c891086f133a6fefc1d43c3ade0dedb13faac587"
 metafile = true
 
 [[files]]
