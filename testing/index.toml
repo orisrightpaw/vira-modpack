@@ -336,6 +336,11 @@ hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
+file = "mods/enderio.pw.toml"
+hash = "c1613456acb364fcc023dbdf16dff022cd01742eebc906f04b8b3b45899d9522"
+metafile = true
+
+[[files]]
 file = "mods/enderite-mod.pw.toml"
 hash = "9700130e77b3fb94ec3469c17b1c51a7e41726cbbded2430a4afc5ded9fbc9aa"
 metafile = true
