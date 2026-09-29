@@ -91,6 +91,11 @@ hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
@@ -338,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/endrem.pw.toml"
 hash = "43e084efa5f7f4d41eb1c27c998029cf79d403549c8721e7621f650558f94c6e"
-metafile = true
-
-[[files]]
-file = "mods/ends-phantasm.pw.toml"
-hash = "e99bc192266affa7203e3536f96a9a584e2fb348a20d780a7c0afcb60623fa7d"
 metafile = true
 
 [[files]]
@@ -728,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/tsfitemcore.pw.toml"
 hash = "faa2f0fb710f5cd0cd74ca4fc78f56e09968d59f89c942a5777e226ffd54a321"
+metafile = true
+
+[[files]]
+file = "mods/unusual_end.pw.toml"
+hash = "dd62bf59b749f3eb912d11ac62a6aecf167af0dfb674b3d7516d24f4cade6e49"
 metafile = true
 
 [[files]]
