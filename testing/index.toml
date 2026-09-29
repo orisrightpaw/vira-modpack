@@ -446,6 +446,11 @@ hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
 metafile = true
 
 [[files]]
+file = "mods/just-universal-keybinds.pw.toml"
+hash = "04a0dbfe3482acab4680091469339b80fd2775d7ddaccc3f01b0b9ad32563f0e"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
