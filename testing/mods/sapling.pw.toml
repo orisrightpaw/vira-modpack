@@ -1,0 +1,13 @@
+name = "Sapling"
+filename = "sapling-neoforge-1.21.1-2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fAfnmBYL/versions/9TsU0rKs/sapling-neoforge-1.21.1-2.6.jar"
+hash-format = "sha512"
+hash = "98d573808eca0824268eff52575b2b4447adf80086e67a324b4153cadcbf1794023be6b545627ee6a04d289f96997adcf650f15525e288ac62d5a5cedcabccce"
+
+[update]
+[update.modrinth]
+mod-id = "fAfnmBYL"
+version = "9TsU0rKs"
