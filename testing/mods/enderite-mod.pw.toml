@@ -1,0 +1,13 @@
+name = "Enderite Mod"
+filename = "enderitemod-neoforge-1.6.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lvRWqbA/versions/E20E5b4v/enderitemod-neoforge-1.6.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "a1e480c157283dd3941c2351087bca3225b2488b5068ed4b83f6e6ea370b61c97ab88da129e46960f2b3fb00ccae644c91e7dc82587289af552e5a6b77f33240"
+
+[update]
+[update.modrinth]
+mod-id = "6lvRWqbA"
+version = "E20E5b4v"
