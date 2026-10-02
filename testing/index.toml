@@ -441,6 +441,11 @@ hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "c4a7da01fd934c427281cf304872e4bbc3642e61751e1e3b558547733fc2ca12"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
 metafile = true
